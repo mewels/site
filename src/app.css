@@ -3,7 +3,7 @@
     font-weight: normal;
     line-height: 1.5;
     /* background: red; */
-    background-image: url("altbg.png");
+    background-image: url("../altbg.png");
     font-family: Courier;
 
     --page-padding: 1rem;
