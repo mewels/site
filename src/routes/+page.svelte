@@ -12,11 +12,15 @@
     </p>
 
     <p>
+        siempre quiero mejorar mi español. si hablá español, me encantaría hablar con usted. también si tiene sugerencias de libros, películas, etc. hispanohablantes, por favor los me dé.
+    </p>
+
+    <p>
         i'm a member of the <a href = "https://maillard.love"> imo team</a> doujin circle. 
     </p>
 
     <p>
-        siempre quiero mejorar mi español. si hablá español, me encantaría hablar con usted. también si tiene sugerencias de libros, películas, etc. hispanohablantes, por favor los me dé.
+        i have a recipe website i built at <a href = "https://meshi.world">meshi world</a>.
     </p>
 
     <p>
