@@ -20,7 +20,7 @@
     </p>
 
     <p>
-        i have a recipe website i built at <a href = "https://meshi.world">meshi world</a>.
+        i built a recipe website at <a href = "https://meshi.world">meshi.world</a>.
     </p>
 
     <p>
