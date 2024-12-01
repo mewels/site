@@ -4,7 +4,7 @@
 <div>
     <br>
     <p>
-        hello and welcome to my site. i'm mara. you can also call me bagel. i'm interested in delusion, compassion, truth, motion, power, and change. music and reading were my first loves.
+        hello and welcome to my site. i'm mara. you can also call me bagel. i'm interested in delusion, compassion, motion, desire, and change. music and reading were my first loves.
     </p>
 
     <p>
