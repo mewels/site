@@ -110,7 +110,7 @@
         frames, walls, the vault door, etcetera, all at the right height and
         angle. So I don’t feel bad when I make a mark because I’m just the
         latest in a 30 year tradition of banging the cart into the wall.</p>
-        <p>Apparently Michael has worked at the store for 30 years. Michael is
+        <p>30 years is a long time. Apparently Michael has worked at the store for 30 years. Michael is
         the highest-up guy at the store that I know. Chandler (who helps me
         verify the vault amount at the end of each day) says he’s retiring next
         year. I don’t talk to Michael really, but I see him in the morning
