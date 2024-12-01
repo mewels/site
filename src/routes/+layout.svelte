@@ -23,6 +23,19 @@
     min-height: 90vh;
  }
 
+  /* mobile */
+  @media (max-width: 500px) {
+    :root {
+      --page-padding: .3rem;
+    }
+
+    .container {
+      flex-direction: column;
+      align-items: center;
+      /* max-width: 70rem; */
+    }
+  }
+
  /* .header {
     text-align: center;
     padding-top: 1rem;

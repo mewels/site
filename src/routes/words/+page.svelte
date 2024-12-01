@@ -4,12 +4,21 @@
 <div>
     <br>
     <p>
-        i'll be moving old posts from elsewhere here shortly. i've been writing a lot of new stuff but i haven't decided the way it will get to you. i'll let you know when i do.
+        things i have written.
     </p>
+    <ul>
+        <li>
+            <a href = "/words/cart">cart</a> : a piece i wrote about my life now. this should help you get to know me a bit.
+        </li>
+    </ul>
 </div>
  
 <style>
     p { 
         text-indent: 1rem;
+    }
+
+    ul {
+        list-style: none;
     }
 </style>

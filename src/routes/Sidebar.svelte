@@ -21,6 +21,17 @@
             </li>
         {/each}
     </ul>
+
+    <div class = "moblinks">
+        {#each Object.entries (links) as [href, text]}
+            <a
+                {href}
+                data-sveltekit-preload-data
+            >
+                {text}
+            </a>
+    {/each}
+    </div>
 </div>
 
 <style>
@@ -39,5 +50,36 @@
         list-style-position: outside;
         padding-left: 0;
         line-height: 2.6;
+    }
+
+    .moblinks {
+        display: none;
+        align-items: center;
+    }
+
+    /* mobile */
+    @media (max-width: 500px) {
+        .sidebar {
+            height: 2rem;
+            display:flex;
+            justify-content: center;
+            padding: 0rem;
+            margin: 0;
+            width: 90%;
+        }
+
+        .sidelinks {
+            display: none
+        }
+
+        .moblinks {
+            display: flex;
+            margin: 1rem;
+            min-width: 90%;
+        }
+
+        a {
+            padding: 5px;
+        }
     }
 </style>
