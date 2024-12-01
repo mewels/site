@@ -24,7 +24,7 @@
     </p>
 
     <p>
-        i have a cat named soup. i love him a lot but i find it tough to actually hang out with him because i feel a little nervous when he's around. i kinda like he's expecting something of me.
+        i have a cat named soup. i love him a lot but i find it tough to actually hang out with him because i feel a little nervous when he's around. i kinda feel like he's expecting something of me.
     </p>
 
     <br>
