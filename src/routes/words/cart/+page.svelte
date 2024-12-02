@@ -101,8 +101,7 @@
         in the 1950s to the 1990s, so probably not.</p>
         <p>The cart gets used for one thing. At the beginning and the end of the
         day, I walk about 30 meters snaking through the office with the cart to
-        where the vault is. We keep a few tens of thousands of dollars in there,
-        as like extra money, and for if I need to grab more 1s or 10s or
+        where the vault is. We keep a few tens of thousands of dollars in there as extra money, and for if I need to grab more 1s or 10s or
         quarters or something to fill bags with. The petty cash gets stored in
         there overnight. The cart’s wheels are really shitty and don’t turn
         well, so it gets banged into stuff a lot. Along my path to the vault,
@@ -176,7 +175,7 @@
         defining my life through negative space, so I try to think about how I
         can use my position to make life better for me and others instead of
         worrying about negative stuff.</p>
-        <p>I think that’s the nicest thing about being a clerk - I have lots of
+        <p>That’s another nice thing about being a clerk - I have lots of
         time to think in a normal setting. I feel like touching money and office
         supplies and desks and wearing skirts and cardigans is making me more
         normal, and that’s good. I was really neurotic in the summer before I
