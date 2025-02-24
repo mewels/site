@@ -3,7 +3,6 @@
         '/' : 'index',
         '/sounds' : 'sounds',
         '/words' : 'words',
-        '/images' : 'images',
         '/logs' : 'logs'
     }
 </script>
