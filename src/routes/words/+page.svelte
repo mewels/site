@@ -3,19 +3,22 @@
 </script>
 <div>
     <br>
-    <p>
-        things i have written.
-    </p>
+    <h3>
+        things i have written
+    </h3>
     <ul>
         <li>
-            <a href = "/words/cart">cart</a> : a piece i wrote about my life now. this should help you get to know me a bit.
+            <a href = "/words/cart">cart</a> : about work, life, people. october 2024.
+        </li>
+        <li>
+            <a href = "/words/middletreatise">notes on the middle treatise</a> : my work on nagarjuna's root verses. april 2025
         </li>
     </ul>
 </div>
  
 <style>
-    p { 
-        text-indent: 1rem;
+    h3 { 
+        text-indent: 2rem;
     }
 
     ul {
