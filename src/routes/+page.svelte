@@ -4,38 +4,37 @@
 <div>
     <br>
     <p>
-        hello and welcome to my site. i'm mara. you can also call me bagel. i'm interested in delusion, compassion, motion, desire, and change. music and reading were my first loves.
+        bienvenidos a mi sitio web. soy mara. también puedes llamarme bagel. me interesan lógico, búdismo, el correr, la música y español. leer era mi primero amor.
     </p>
 
     <p>
-        recently i've been really into riichi mahjong and movies.
+        siempre quiero mejorar mi habilidad de español. si lo hablá, me prefiera que me dirige en español en vez de inglés. también, si tiene sugerencias de libros, películas, etc. hispanohablantes, por favor los me dé.
     </p>
 
     <p>
-        siempre quiero mejorar mi español. si hablá español, me encantaría hablar con usted. también si tiene sugerencias de libros, películas, etc. hispanohablantes, por favor los me dé.
+        puede escuchar a mi música <a href = "https://soundcloud.com/nekopath">acá</a>.
     </p>
 
     <p>
-        i'm a member of the <a href = "https://maillard.love"> imo team</a> doujin circle. 
+        soy miembro de la círculo doujin <a href = "https://maillard.love"> imo team</a>. 
     </p>
 
     <p>
-        i built a recipe website at <a href = "https://meshi.world">meshi.world</a>.
+        si le gusta cocinar, debe mirar a mi otro sitio web: <a href = "https://meshi.world">meshi.world</a>.
     </p>
-
-    <p>
-        i have a cat named soup. i love him a lot but i find it tough to actually hang out with him because i feel a little nervous when he's around. i kinda feel like he's expecting something of me.
-    </p>
-
     <br>
-
-    <p>
-        you can contact me at mara @ nekopath (dot) fun
+    <p style="text-align:center">
+        puede contactarme vía mara @ nekopath (dot) fun
     </p>
 </div>
 
 <style>
     p { 
         text-indent: 1rem;
+    }
+
+    div {
+        margin-left: 2rem;
+        margin-right: 2rem;
     }
 </style>

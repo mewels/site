@@ -4,14 +4,11 @@
 <div>
     <br>
     <h3>
-        things i have written
+        mis obras literarias
     </h3>
     <ul>
         <li>
-            <a href = "/words/cart">cart</a> : about work, life, people. october 2024.
-        </li>
-        <li>
-            <a href = "/words/middletreatise">notes on the middle treatise</a> : my work on nagarjuna's root verses. april 2025
+            <a href = "/words/cart">cart</a> : trabajar, vivir, otras personas (en inglés). publicado octubre 2024.
         </li>
     </ul>
 </div>
