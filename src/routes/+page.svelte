@@ -4,11 +4,11 @@
 <div>
     <br>
     <p>
-        bienvenidos a mi sitio web. soy mara. también puedes llamarme bagel. me interesan lógico, búdismo, el correr, la música y español. leer era mi primero amor.
+        bienvenidos a mi sitio web. soy mara. también puedes llamarme bagel. me interesa lógico, búdismo, corriendo, la música y español. leyendo es mi primero amor.
     </p>
 
     <p>
-        siempre quiero mejorar mi habilidad de español. si lo hablá, me prefiera que me dirige en español en vez de inglés. también, si tiene sugerencias de libros, películas, etc. hispanohablantes, por favor los me dé.
+        siempre quiero mejorar mi habilidad de español. si lo hablas, prefiero que me dirijas en español en vez de inglés. también, si tiene sugerencias de libros, películas, etc. hispanohablantes, por favor los me dé.
     </p>
 
     <p>
