@@ -8,7 +8,7 @@
     </h3>
     <ul>
         <li>
-            <a href = "/work/middletreatise">notes on the middle treatise</a> : una monografía acerca de la <i>mūlamadhyamakakārikā</i> de nagarjuna (en inglés). primero publicado: 05 abríl 2025. último revisto: 13 abríl 2025. 
+            <a href = "/obras/middletreatise">notes on the middle treatise</a> : una monografía acerca de la <i>mūlamadhyamakakārikā</i> de nagarjuna (en inglés). primero publicado: 05 abríl 2025. último revisto: 13 abríl 2025. 
         </li>
     </ul>
 

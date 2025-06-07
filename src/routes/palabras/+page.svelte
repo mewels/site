@@ -8,7 +8,7 @@
     </h3>
     <ul>
         <li>
-            <a href = "/words/cart">cart</a> : trabajar, vivir, otras personas (en inglés). publicado octubre 2024.
+            <a href = "/palabras/cart">cart</a> : trabajar, vivir, otras personas (en inglés). publicado octubre 2024.
         </li>
     </ul>
 </div>

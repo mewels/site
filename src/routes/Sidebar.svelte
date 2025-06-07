@@ -1,8 +1,8 @@
 <script>
     let links = {
-        '/' : 'index',
-        '/words' : 'words',
-        '/work' : 'work'
+        '/' : 'índice',
+        '/palabras' : 'palabras',
+        '/obras' : 'obras'
     }
 </script>
 
