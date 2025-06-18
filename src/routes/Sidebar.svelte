@@ -39,7 +39,10 @@
         /* border-width: 1px; */
         /* border-color: grey; */
         margin-left: 1rem;
-        padding: 2rem;
+        padding-top: 2rem;
+        padding-left: 2rem;
+        padding-bottom: 2rem;
+        padding-right: .5rem;
         height: 15rem;
     }
 
