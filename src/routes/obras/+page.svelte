@@ -2,7 +2,6 @@
     import '../../app.css'
 </script>
 <div>
-    <br>
     <h3>
         obras académicas
     </h3>
@@ -17,10 +16,6 @@
 </div>
  
 <style>
-    h3 { 
-        text-indent: 2rem;
-    }
-
     ul {
         list-style: none;
     }

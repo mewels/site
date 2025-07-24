@@ -2,17 +2,16 @@
    import '../app.css'
 </script>
 <div>
-    <br>
     <p>
-        bienvenidos a mi sitio web. soy mara. también puedes llamarme bagel. me interesa lógico, búdismo, corriendo, la música y español. leyendo es mi primero amor.
+        bienvenidos a mi sitio web! soy mara. también puedes llamarme bagel. me interesa búdismo, lógico, correr, la música y español. leer es mi primero amor.
     </p>
 
     <p>
-        siempre quiero mejorar mi habilidad de español. si lo hablas, prefiero que me dirijas en español en vez de inglés. también, si tiene sugerencias de libros, películas, etc. hispanohablantes, por favor los me dé.
+        siempre estoy intentando a mejorar mi habilidad de español. si lo hablas, prefería que me dirijas en español en vez de inglés. también, si tiene sugerencias para libros, películas, etc. en español, por favor dámelos.
     </p>
 
     <p>
-        puede escuchar a mi música <a href = "https://soundcloud.com/nekopath">acá</a>.
+        puedes escuchar a mi música <a href = "https://soundcloud.com/nekopath">acá</a>.
     </p>
 
     <p>
@@ -20,11 +19,11 @@
     </p>
 
     <p>
-        si le gusta cocinar, debe mirar a mi otro sitio web: <a href = "https://meshi.world">meshi.world</a>.
+        si te gusta cocinar, debes mirar a <a href = "https://meshi.world">mi otro sitio web</a>.
     </p>
     <br>
     <p style="text-align:center">
-        puede contactarme vía mara @ nekopath (dot) fun
+        puedes contactarme vía mara @ nekopath (dot) fun
     </p>
 </div>
 

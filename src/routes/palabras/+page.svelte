@@ -2,7 +2,6 @@
     import '../../app.css'
 </script>
 <div>
-    <br>
     <h3>
         mis obras literarias
     </h3>
@@ -16,6 +15,7 @@
 <style>
     h3 { 
         text-indent: 2rem;
+        text-align: center;
     }
 
     ul {
