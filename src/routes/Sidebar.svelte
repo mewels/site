@@ -34,16 +34,16 @@
 
 <style>
     .sidebar { 
-        /* background: linear-gradient(whitesmoke,rgba(255, 255, 255, 0)); */
-        /* border-style: solid; */
-        /* border-width: 1px; */
-        /* border-color: grey; */
+        border-style: solid;
+        border-width: 1px;
+        border-color: grey;
+        background: rgb(245,245,245);
         margin-left: 1rem;
-        padding-top: 2rem;
-        padding-left: 2rem;
-        padding-bottom: 2rem;
-        padding-right: .5rem;
-        height: 15rem;
+        /* padding-top: 1.5rem; */
+        /* padding-bottom: 1.5rem; */
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        height: 10rem;
     }
 
     .sidelinks {
@@ -64,14 +64,13 @@
     }
 
     /* mobile */
-    @media (max-width: 500px) {
+    @media (max-width: 1000px) {
         .sidebar {
-            height: 2rem;
+            height: 3rem;
             display:flex;
             justify-content: center;
             padding: 0rem;
             margin: 0;
-            width: 90%;
         }
 
         .sidelinks {
@@ -84,11 +83,12 @@
             align-items: center;
             justify-content: center;
             margin: 1rem;
+            /* padding: 1rem; */
             min-width: 90%;
         }
 
         a {
-            padding: 5px;
+            padding: 7px;
         }
     }
 </style>
