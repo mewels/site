@@ -1,7 +1,6 @@
 <script>
     let links = {
         '/' : 'índice',
-        '/palabras' : 'palabras',
         '/obras' : 'obras'
     }
 </script>
@@ -43,7 +42,7 @@
         /* padding-bottom: 1.5rem; */
         padding-left: 1.5rem;
         padding-right: 1.5rem;
-        height: 10rem;
+        height: 7.75rem;
     }
 
     .sidelinks {

@@ -3,7 +3,7 @@
 </script>
 <div>
     <p>
-        bienvenidos a mi sitio web! soy mara. también puedes llamarme bagel pero nadie haga esto. me interesa búdismo, lógico, correr, la música y español. leer es mi primero amor.
+        bienvenidos a mi sitio web! soy mara. también puedes llamarme bagel pero nadie haga esto. me interesa búdismo, lógico, correr, la música y español. leer es mi primero amor. recientemente he querido estudiar la matemática y los algoritmos de nuevo pero no sé a donde encontrar tiempo para estos...
     </p>
 
     <p>
@@ -11,7 +11,7 @@
     </p>
 
     <p>
-        siempre estoy intentando a mejorar mi habilidad de español. ojalá que algun dia pueda mudarme a españa o otra país hispanohablante. si lo hablas español, prefería que me dirijas en español en vez de inglés. también, si tiene sugerencias para libros, películas, etc. en español, por favor dámelos.
+        siempre intento a mejorar mi habilidad de español y ojalá que algun día pueda mudarme a españa o otra país hispanohablante. si hablas español, prefería que me dirijas en español en vez de inglés. también, si tiene sugerencias para libros, películas, etc. en español, por favor dámelos.
     </p>
 
     <p>
