@@ -15,27 +15,8 @@
     </p>
 
     <p>
-        soy música de varias maneras. principalmente toco la guítarra y hacer música electrónica. usualmente, cúales lanzo son las obras electrónicas, pero recientemente he lanzado un sencillo de mi proyecto rock, se llama dead nymphs. puedes escuchar a mi música a los enlaces siguentes:
+        soy música de varias maneras. principalmente toco la guítarra y hacer música electrónica. he recabado muchos de mis obras <a href = "/musica/">aqui</a>.
     </p>
-
-    <nav>
-        <ul>
-            <li>
-                <a href = "https://soundcloud.com/nekopath">soundcloud</a>
-            (obras electrónicas)
-            </li>
-            
-            <li>
-                <a href = "https://nekopath.bandcamp.com">bandcamp</a>
-            (no hay mucho aquí)
-            </li>
-
-            <li>
-                <a href = "https://deadnymphs.bandcamp.com">dead nymphs</a>
-            (música rock)
-            </li>
-        </ul>
-    </nav>
 
     <p>
         soy miembro de el círculo doujin <a href = "https://maillard.love"> imo team</a>. usualmente compongo música para nuestras proyectas, y a veces también ayudar con la edición y la escritura.  
@@ -58,15 +39,5 @@
     div {
         margin-left: 2rem;
         margin-right: 2rem;
-    }
-
-    nav {
-        align-items: center;
-        display: flex;
-        justify-content: center;
-    }
-
-    ul {
-        list-style-type: "> ";
     }
 </style>

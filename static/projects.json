@@ -1,0 +1,218 @@
+{
+    "nekopath": 
+    [
+        {
+            "artist" : "nekopath",
+            "title" : "dejame servirte",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/dejameservirte_350.jpg",
+            "pagetext" : "dejameservirte.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/track/dejame-servirte" ,
+                "https://soundcloud.com/nekopath/dejame-servirte"
+            ]
+
+        },
+        {
+            "artist" : "nekopath",
+            "title" : "altar de la desesperación",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/altar_350.jpg",
+            "pagetext" : "altar.md",
+            "links" : ["https://soundcloud.com/nekopath/altar-de-la-desesperacion"]
+
+        },
+        {
+            "artist" : "nekopath",
+            "title" : "sin nombre",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/sin_nombre_350.jpg",
+            "pagetext" : "sin_nombre.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/album/sin-nombre" ,
+                "https://soundcloud.com/nekopath/sets/sin-nombre"
+            ]
+        }
+    ],
+    "djtofu":
+    [
+        {
+            "artist" : "dj tofu",
+            "title" : "FUNKY NUMANUMA",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/funkynumanuma_350.jpg",
+            "pagetext" : "funkynumanuma.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/track/funky-numanuma" ,
+                "https://www.youtube.com/watch?v=FsaiETxYCvM"
+            ]
+        },
+        {
+            "artist" : "dj tofu",
+            "title" : "dj tofu live @ yayemarket 0 [07/25/2025]",
+            "type" : "dj mix",
+            "year" : "2025",
+            "filename" : "/images/liveatyayemarket_350.jpg",
+            "pagetext" : "liveatyayemarket.md",
+            "links" : ["https://soundcloud.com/djtofuuuuuu/dj-tofu-live-yayemarket-0-07252025"]
+
+        },
+        {
+            "artist" : "dj tofu",
+            "title" : "live at friendpad march 23 2025",
+            "type" : "dj mix",
+            "year" : "2025",
+            "filename" : "/images/liveatfriendpad_350.jpg",
+            "pagetext" : "liveatfriendpad.md",
+            "links" : ["https://soundcloud.com/djtofuuuuuu/live-tuckpad-30-march-23-2025"]
+        },
+        {
+            "artist" : "dj tofu",
+            "title" : "FUNKOT MIX live @ homeowners jan 25",
+            "type" : "dj mix",
+            "year" : "2025",
+            "filename" : "/images/liveathomeowners_350.jpg",
+            "pagetext" : "liveathomeowners.md",
+            "links" : ["https://soundcloud.com/djtofuuuuuu/funkot-mix-live-homeowners"]
+
+        },
+        {
+            "artist" : "dj tofu",
+            "title" : "mix i would have played on saturday but my girlfriend had to go to the er",
+            "type" : "dj mix",
+            "year" : "2025",
+            "filename" : "/images/mixiwouldhaveplayed_350.jpg",
+            "pagetext" : "mixiwouldhaveplayed.md",
+            "links" : ["https://soundcloud.com/djtofuuuuuu/mix-i-would-have-played-on-saturday-but-my-girlfriend-had-to-go-to-the-er"]
+        },
+        {
+            "artist" : "dj tofu",
+            "title" : "DRESDEN FUNKY",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/dresdenfunky_350.jpg",
+            "pagetext" : "dresdenfunky.md",
+            "links" : ["https://soundcloud.com/nekopath/dresden-funky"]
+        },
+        {
+            "artist" : "dj tofu",
+            "title" : "dj tofu @ conejo bcafe aug 25 2024",
+            "type" : "dj mix",
+            "year" : "2024",
+            "filename" : "/images/lifeatbcafe_350.jpg",
+            "pagetext" : "lifeatbcafe.md",
+            "links" : ["https://soundcloud.com/nekopath/dj-tofu-live-conejo-bcafe-aug-25-2024"]
+        }
+    ],
+    "deadnymphs":
+    [
+        {
+            "artist" : "dead nymphs",
+            "title" : "handle with care / like this",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/handlewithcare_350.jpg",
+            "pagetext" : "handlewithcare.md",
+            "links" : [
+                "https://deadnymphs.bandcamp.com/album/handle-with-care-like-this" ,
+                "https://soundcloud.com/deadnymphs/sets/handle-with-care-like-this"
+            ]
+        }
+    ],
+    "mara":
+    [
+        {
+            "artist" : "bagel",
+            "title" : "thank you",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/thankyou_350.jpg",
+            "pagetext" : "thankyou.md",
+            "links" : ["https://soundcloud.com/nekopath/thank-you"]
+
+        },
+        {
+            "artist" : "mara",
+            "title" : "neko life",
+            "type" : "single",
+            "year" : "2024",
+            "filename" : "/images/nekolife_350.jpg",
+            "pagetext" : "nekolife.md",
+            "links" : ["https://soundcloud.com/nekopath/neko-life"]
+
+        },
+        {
+            "artist" : "mara",
+            "title" : "splintered sisters",
+            "type" : "single",
+            "year" : "2024",
+            "filename" : "/images/splintered_350.jpg",
+            "pagetext" : "splintered.md",
+            "links" : ["https://soundcloud.com/nekopath/splintered-sisters"]
+
+        },
+        {
+            "artist" : "mara",
+            "title" : "worn",
+            "type" : "single",
+            "year" : "2024",
+            "filename" : "/images/worn_350.jpg",
+            "pagetext" : "worn.md",
+            "links" : ["https://soundcloud.com/nekopath/worn"]
+
+        },
+        {
+            "artist" : "mara",
+            "title" : "silt",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/silt_350.jpg",
+            "pagetext" : "silt.md",
+            "links" : ["https://soundcloud.com/nekopath/silt"]
+        },
+        {
+            "artist" : "mara",
+            "title" : "telepathic rendering (cute mix)",
+            "type" : "single",
+            "year" : "2024",
+            "filename" : "/images/telepathicrendering_350.jpg",
+            "pagetext" : "telepathicrendering.md",
+            "links" : ["https://soundcloud.com/nekopath/telepathic-rendering-maras-cute-mix"]
+        },
+        {
+            "artist" : "mara",
+            "title" : "souls freak",
+            "type" : "EP",
+            "year" : "2025",
+            "filename" : "/images/soulsfreak_350.jpg",
+            "pagetext" : "soulsfreak.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/album/souls-freak",
+                "https://soundcloud.com/nekopath/sets/souls-freak"
+            ]
+        },
+        {
+            "artist" : "mara",
+            "title" : "O _ 0",
+            "type" : "single",
+            "year" : "2023",
+            "filename" : "/images/clock_350.jpg",
+            "pagetext" : "clock.md",
+            "links" : ["https://soundcloud.com/nekopath/o-0"]
+        },
+        {
+            "artist" : "mara",
+            "title" : ">_<",
+            "type" : "single",
+            "year" : "2023",
+            "filename" : "/images/hachikuji_350.jpg",
+            "pagetext" : "hachikuji.md",
+            "links" : ["https://soundcloud.com/nekopath/gtlteyes"]
+        }
+    ]
+
+}
