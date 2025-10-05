@@ -13,11 +13,6 @@
 </div>
  
 <style>
-    h3 { 
-        text-indent: 2rem;
-        text-align: center;
-    }
-
     ul {
         list-style: none;
     }

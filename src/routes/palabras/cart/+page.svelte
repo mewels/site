@@ -1,7 +1,7 @@
 <script>
     import '../../../app.css'
 </script>
-<div class = "blog">
+<div class = "post">
     <h3>cart</h3>
     <p>Recently I got a part time job as a clerk at the university book
         store. It’s a pretty good gig, because it’s only 5 minutes away from my
@@ -191,25 +191,3 @@
         thousands. I wonder if the person that bangs the cart into the walls
         after me will have bought any of my clothes. Or if they think about any of this stuff. Maybe I’ll come back one day and ask them about it. I probably won’t though.</p>
 </div>
- 
-<style>
-    h3 {
-        text-align: center;
-    }
-    p { 
-        text-indent: 1rem;
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
-
-    .blog {
-        padding-bottom: 1rem;
-    }
-
-      /* mobile */
-    @media (max-width: 500px) {
-        p {
-            padding: .5rem;
-        }
-    }
-</style>

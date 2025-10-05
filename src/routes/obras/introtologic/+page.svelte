@@ -2,7 +2,7 @@
     import '../../../app.css'
 </script>
 
-<div class = "blog">
+<div class = "post">
     <h3>intro to logic</h3>
     <p>
         Here I've published my solutions to the exercises of Tarski's <i>Introduction to Logic</i>. Of course, any corrections or other correspondence on the subject is very welcome.
@@ -22,25 +22,3 @@
         <li><a href="../../../ex6.pdf">Chapter 6</a></li>
     </ul>
 </div>
-
-<style>
-    h3 {
-        text-align: center;
-    }
-    p { 
-        text-indent: 1rem;
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
-
-    .blog {
-        padding-bottom: 1rem;
-    }
-
-      /* mobile */
-    @media (max-width: 500px) {
-        p {
-            padding: .5rem;
-        }
-    }
-</style>

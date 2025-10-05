@@ -34,10 +34,8 @@
 
 <style>
     .sidebar { 
-        border-style: solid;
-        border-width: 1px;
-        border-color: grey;
-        background: rgb(245,245,245);
+        border: 2px groove #f8f8f8;
+        background: #f8f8f8;
         margin-left: 1rem;
         /* padding-top: 1.5rem; */
         /* padding-bottom: 1.5rem; */
@@ -46,6 +44,10 @@
         height: 10rem;
         position: sticky;
         top: 2rem;
+    }
+
+    a {
+        color: black;
     }
 
     .sidelinks {

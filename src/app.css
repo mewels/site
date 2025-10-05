@@ -1,49 +1,52 @@
 :root {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: normal;
     line-height: 1.5;
-    font-family: "vera";
-
+    font-family: "Superior";
+    --background-color: rgb(255, 254, 252);
     --page-padding: 1rem;
-
-    --text-color: #3a3221;
+    background: var(--background-color);
+    --link-color: #000000;
 }
 
  .container {
     display:flex;
-    align-self: flex-start;
     margin-top: 2rem;
     position: relative;
     min-height: 90vh;
  }
 
 main {
-    /* background: rgb(245,245,245); */
-    /* border-style: solid; */
-    /* border-color: grey; */
-    /* border-width: 1px; */
     margin-left: 1rem;
     margin-right: 1rem;
-    /* padding: 2rem; */
-    max-width: 60%;
     overflow-wrap: break-word;
 }
+
+.post {
+    max-width: 75%;
+}
+
 
 .fakemain {
     margin: 0px;
     padding: 0px;
 }
 
- h3 {
-    text-align: center;
+h3 {
+    text-align: left;
+    font-size: 18pt;
+    /* font-family: "vera"; */
 }
 
 a {
-    color: var(--text-color)
+    color: var(--link-color);
+    text-decoration: underline dotted;
 }
 
+
+
 a.visited {
-    color: var(--text-color)    
+    color: var(--link-color)    
 }
 
 .page-width {
@@ -53,6 +56,14 @@ a.visited {
 .page-padding {
 	padding: 0 var(--page-padding);
 }
+
+@font-face {
+    font-family: "Superior";
+    src: url("/lt_superior/LTSuperior-Light.ttf") format("truetype"),
+    url("/lt_superior/LTSuperior-LightItalic.ttf") format("truetype"),
+    url("/lt_superior/LTSuperior-Bold.ttf") format("truetype"),
+}
+
 
 @font-face {
 	font-family: vera;
@@ -81,9 +92,11 @@ a.visited {
 
     main {
         width: 100%;
+        margin: 0px;
     }
 
     .fakemain {
         overflow: visible;
+        max-width: 100%;
     }
 }

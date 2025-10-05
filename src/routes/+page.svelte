@@ -1,7 +1,7 @@
 <script>
    import '../app.css'
 </script>
-<div>
+<div class = post>
     <p>
         bienvenidos a mi sitio web! soy mara. también puedes llamarme bagel pero nadie haga esto. me interesa búdismo, lógico, correr, la música y español. leer es mi primero amor. recientemente he querido estudiar la matemática y los algoritmos de nuevo pero no sé a donde encontrar tiempo para estos...
     </p>
@@ -30,14 +30,3 @@
         puedes contactarme vía mara @ nekopath (dot) fun
     </p>
 </div>
-
-<style>
-    p { 
-        text-indent: 1rem;
-    }
-
-    div {
-        margin-left: 2rem;
-        margin-right: 2rem;
-    }
-</style>

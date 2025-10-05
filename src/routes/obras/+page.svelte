@@ -1,7 +1,7 @@
 <script>
     import '../../app.css'
 </script>
-<div>
+<div class = post>
     <h3>
         obras académicas
     </h3>
