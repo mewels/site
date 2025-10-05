@@ -23,7 +23,9 @@ main {
 }
 
 .post {
-    max-width: 75%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 45rem;
 }
 
 
@@ -35,15 +37,12 @@ main {
 h3 {
     text-align: left;
     font-size: 18pt;
-    /* font-family: "vera"; */
 }
 
 a {
     color: var(--link-color);
     text-decoration: underline dotted;
 }
-
-
 
 a.visited {
     color: var(--link-color)    
@@ -64,15 +63,6 @@ a.visited {
     url("/lt_superior/LTSuperior-Bold.ttf") format("truetype"),
 }
 
-
-@font-face {
-	font-family: vera;
-	src: url("/vera_humana_95/Verah___.ttf") format("truetype"),
-    url("/vera_humana_95/Verahi___.ttf") format("truetype"),
-    url("/vera_humana_95/Verahb___.ttf") format("truetype"),
-    url("/vera_humana_95/Verahbi___.ttf") format("truetype");
-}
-
 @counter-style my-decimal {
   system: extends decimal;
   suffix: ". ";
@@ -91,12 +81,11 @@ a.visited {
     }
 
     main {
-        width: 100%;
         margin: 0px;
     }
 
     .fakemain {
         overflow: visible;
-        max-width: 100%;
+        /* max-width: 100%; */
     }
 }
