@@ -11,6 +11,8 @@
     href="https://painfeeledsubstation.web.fc2.com/" />
   <link rel="webchain-nomination"
     href="https://yogurt200.com/" />
+  <link rel="webchain-nomination"
+    href="https://standardbody.neocities.org" />
 </svelte:head>
 <div class = "container">
     <Sidebar />
