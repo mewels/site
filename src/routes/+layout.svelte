@@ -13,6 +13,8 @@
     href="https://yogurt200.com/" />
   <link rel="webchain-nomination"
     href="https://standardbody.neocities.org" />
+  <link rel="webchain-nomination"
+    href="https://acorn.su" />
 </svelte:head>
 <div class = "container">
     <Sidebar />
