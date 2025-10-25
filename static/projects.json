@@ -3,6 +3,19 @@
     [
         {
             "artist" : "nekopath",
+            "title" : "sick",
+            "type" : "single",
+            "year" : "2025",
+            "filename" : "/images/sick.jpg",
+            "pagetext" : "sick.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/track/sick" ,
+                "https://soundcloud.com/nekopath/sick"
+            ]
+
+        },
+        {
+            "artist" : "nekopath",
             "title" : "dejame servirte",
             "type" : "single",
             "year" : "2025",

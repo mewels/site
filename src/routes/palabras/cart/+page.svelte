@@ -107,7 +107,7 @@
         well, so it gets banged into stuff a lot. Along my path to the vault,
         there’s so many scratches and marks along the corners of doors, door
         frames, walls, the vault door, etcetera, all at the right height and
-        angle. So I don’t feel bad when I make a mark because I’m just the
+        angle. I don’t feel bad when I make a mark because I’m just the
         latest in a 30 year tradition of banging the cart into the wall.</p>
         <p>30 years is a long time. Apparently Michael has worked at the store for 30 years. Michael is
         the highest-up guy at the store that I know. Chandler (who helps me
