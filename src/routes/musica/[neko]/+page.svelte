@@ -31,6 +31,8 @@
                 <a href = {link}>soundcloud</a>
                 {:else if link.includes("youtube")}
                 <a href = {link}>youtube</a>
+                {:else if link.includes("archive")}
+                <a href = {link}>internet archive</a>
                 {/if}
                 <br>
             {/each}
