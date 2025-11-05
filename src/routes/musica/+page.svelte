@@ -5,13 +5,14 @@
 	const mobile = new MediaQuery('max-width: 1000px');
 
     let {data} = $props()
-    let collapsed = $state([0,0,0,0])
+    let collapsed = $state([0,0,0,0,0])
 
     if (mobile.current) {
         // collapse(0)
         collapse(1)
         collapse(2)
         collapse(3)
+        collapse(4)
     }
 
     
@@ -93,7 +94,7 @@
 {/if}
 
 <div class = "section">
-    mara / bagel / other names
+    cazadoras
     {#if collapsed[3] == 0}
         <button class = "collapsable" onclick={(e) => collapse(3)}>▼</button>
     {:else}
@@ -103,10 +104,34 @@
 </div>
 
 <div class = "notes">
-    odds or ends, "the archive", stuff that isn't anything else
+    something i can't say
 </div>
 
 {#if collapsed[3] == 0}
+<div class = "project">
+    {#each data.projects.cazadoras as {title, type, year, filename}}
+        <Project title = {title} type = {type} year = {year} filename = {filename} />
+    {/each}
+</div>
+{:else}
+<div></div>
+{/if}
+
+<div class = "section">
+    mara / bagel / other names
+    {#if collapsed[4] == 0}
+        <button class = "collapsable" onclick={(e) => collapse(4)}>▼</button>
+    {:else}
+        <button class = "collapsable" onclick={(e) => collapse(4)}>▶</button>
+    {/if}
+
+</div>
+
+<div class = "notes">
+    odds or ends, "the archive", stuff that isn't anything else
+</div>
+
+{#if collapsed[4] == 0}
 <div class = "project">
     {#each data.projects.mara as {title, type, year, filename}}
         <Project title = {title} type = {type} year = {year} filename = {filename} />

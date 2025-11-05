@@ -147,6 +147,20 @@
             ]
         }
     ],
+    "cazadoras":
+    [
+        {
+            "artist" : "cazadoras",
+            "title" : "entre tu boca y mía",
+            "type" : "EP",
+            "year" : "2025",
+            "filename" : "/images/entretubocaymia.png",
+            "pagetext" : "entretubocaymia.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/album/entre-tu-boca-y-m-a"                
+            ]
+        }
+    ],
     "mara":
     [
         {
@@ -211,7 +225,7 @@
             "artist" : "mara",
             "title" : "souls freak",
             "type" : "EP",
-            "year" : "2025",
+            "year" : "2024",
             "filename" : "/images/soulsfreak_350.jpg",
             "pagetext" : "soulsfreak.md",
             "links" : [
