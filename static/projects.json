@@ -151,6 +151,17 @@
     [
         {
             "artist" : "cazadoras",
+            "title" : "por las hojas caídas",
+            "type" : "album",
+            "year" : "2025",
+            "filename" : "/images/porlashojascaidas.png",
+            "pagetext" : "porlashojascaidas.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/album/por-las-hojas-ca-das"                
+            ]
+        },
+        {
+            "artist" : "cazadoras",
             "title" : "entre tu boca y mía",
             "type" : "EP",
             "year" : "2025",
