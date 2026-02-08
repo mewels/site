@@ -3,11 +3,11 @@
 </script>
 <div>
     <h3>
-        mis obras literarias
+        meow.
     </h3>
     <ul>
         <li>
-            <a href = "/palabras/cart">cart</a> : trabajar, vivir, otras personas (en inglés). publicado octubre 2024.
+            <a href = "/blog/am_hojas">romper y permanecer : acerca de dos libros que me gustaban</a> publicado 07 febrero 2026
         </li>
     </ul>
 </div>
