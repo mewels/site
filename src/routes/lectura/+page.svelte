@@ -47,7 +47,7 @@
                 <span class = "publisher">Vintage Español</span>,
                 <span class = "ano">2017</span>.
             </span>
-            <span class = "status">terminado enero 2026</span>
+            <span class = "status">acabado enero 2026</span>
         </li>
             <li>
             <span class = "cita">
@@ -57,7 +57,7 @@
                 <span class = "publisher">Shackleton</span>,
                 <span class = "ano">2019</span>.
             </span>
-            <span class = "status">terminado enero 2026</span>
+            <span class = "status">acabado enero 2026</span>
         </li>
         <li>
             <span class = "cita">
@@ -67,7 +67,7 @@
                 <span class = "publisher">Gateway</span>,
                 <span class = "ano">2015</span>.
             </span>
-            <span class = "status">terminado enero 2026</span>
+            <span class = "status">acabado enero 2026</span>
         </li>
         <li>
             <span class = "cita">
@@ -77,7 +77,7 @@
                 <span class = "publisher">Ace Books</span>,
                 <span class = "ano">1969</span>.
             </span>
-            <span class = "status">terminado enero 2026</span>
+            <span class = "status">acabado enero 2026</span>
         </li>
         <li>
             <span class = "cita">
@@ -88,7 +88,7 @@
                 <span class = "publisher">Nelson Doubleday</span>,
                 <span class = "ano">1978</span>.
             </span>
-            <span class = "status">terminado diciembre 2026</span>
+            <span class = "status">acabado diciembre 2026</span>
         </li>
         <li>
             <span class = "cita">
@@ -98,7 +98,7 @@
                 <span class = "publisher">Alfaguara</span>,
                 <span class = "ano">1996</span>.
             </span>
-            <span class = "status">terminado diciembre 2025</span>
+            <span class = "status">acabado diciembre 2025</span>
         </li>
                 <li>
             <span class = "cita">
@@ -109,7 +109,7 @@
                 <span class = "publisher">Nelson Doubleday</span>,
                 <span class = "ano">1978</span>.
             </span>
-            <span class = "status">terminado diciembre 2026</span>
+            <span class = "status">acabado diciembre 2026</span>
         </li>
         <li>
             <span class = "cita">
@@ -120,7 +120,7 @@
                 <span class = "publisher">Nelson Doubleday</span>,
                 <span class = "ano">1978</span>.
             </span>
-            <span class = "status">terminado diciembre 2026</span>
+            <span class = "status">acabado diciembre 2026</span>
         </li>
         <li>
             <span class = "cita">
@@ -130,7 +130,7 @@
                 <span class = "publisher">Harcourt</span>,
                 <span class = "ano">2001</span>.
             </span>
-            <span class = "status">terminado diciembre 2026</span>
+            <span class = "status">acabado diciembre 2026</span>
         </li>
         <li>
             <span class = "cita">
@@ -140,7 +140,7 @@
                 <span class = "publisher">Athenium</span>,
                 <span class = "ano">2012</span>.
             </span>
-            <span class = "status">terminado diciembre 2026</span>
+            <span class = "status">acabado diciembre 2026</span>
         </li>
     </ul>
         
