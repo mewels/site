@@ -1,19 +1,26 @@
 <script>
     import '../../app.css'
 </script>
-<div>
+<div class = "postlist">
     <h3>
-        meow.
+        palabras no en serio
     </h3>
     <ul>
         <li>
-            <a href = "/blog/am_hojas">romper y permanecer : acerca de dos libros que me gustaban</a> publicado 07 febrero 2026
+            <a href = "/blog/aquellos">aquellos que permanecen</a>
+            <br>
+            <span class = "detail">mi entrada en la literatura latinoamericana</span>
+            <br>
+            <span class = "detail"> {'{'}07 febrero 2026{'}'} {'{'}español{'}'}</span>
+        </li>
+        <li>
+            <a href = "/blog/cart">cart</a> 
+            <br>
+            <span class = "detail">trabajar, vivir, otras personas</span>
+            <br>
+            <span class = "detail"> {'{'}octubre 2024{'}'} {'{'}inglés{'}'}</span>
+
         </li>
     </ul>
 </div>
  
-<style>
-    ul {
-        list-style: none;
-    }
-</style>

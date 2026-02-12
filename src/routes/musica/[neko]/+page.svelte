@@ -2,8 +2,7 @@
     export let data;
     let thisproject = data.project
 
-    import MarkdownIt from 'markdown-it';
-    const md = new MarkdownIt({html:true});
+    import { marked } from 'marked';
 </script>
 <div class = fakemain>
 <div class = shell>
@@ -21,7 +20,7 @@
             </div>      
         </div>
         <div class = pagetext>
-            {@html md.render(data.module)}
+            {@html marked(data.module)}
         </div>
         <div class = embeds>
             {#each thisproject.links as link}

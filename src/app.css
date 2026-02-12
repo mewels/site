@@ -68,6 +68,106 @@ a.visited {
   suffix: ". ";
 }
 
+.post p {
+    font-size: 17px;
+    text-indent: 1em;
+}
+
+.post h3 {
+    text-align: left;
+    /* font-style: italic; */
+    font-weight: bold;
+    padding-left: 0;
+}
+
+.post h4 {
+    text-align: left;
+    /* font-style: italic; */
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 0;
+    border-bottom: 1px dotted black;
+
+}
+
+.post blockquote p {
+    font-style: italic;
+    font-size: 16px;
+    text-indent: 0em;
+}
+
+.postlist ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.postlist li {
+    border-left: 1px solid var(--background-color);
+    padding: 1rem;
+}
+
+.postlist li:hover {
+    border-left: 1px solid var(--link-color);
+    background: #f8f8f8;
+}
+
+.postlist .detail {
+    font-size: 15px;
+}
+
+.footnotes h2 {
+    margin: 0px;
+}
+
+.footnotes ol {
+    margin: 0px;
+}
+
+.booklist h4 {
+    margin:0px;
+}
+.booklist ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.booklist li {
+    padding: 0.25rem;
+    padding-bottom: 0.5rem;
+    display:flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.booklist li:nth-child(even){
+    background-color:#e5e5e5;
+}
+
+.booklist li:last-child{
+    border-bottom: 1px solid var(--background-color)
+}
+
+.booklist .detail {
+    font-size: 15px;
+    margin-left: 1em;
+}
+
+.booklist p.detail {
+    margin-bottom:0px;
+}
+
+.cita .titulo{
+    font-style:italic;
+}
+
+.booklist .status {
+    font-size: 15px;
+    align-self: end;
+}
+
+
 
 /* mobile */
 @media (max-width: 1000px) {

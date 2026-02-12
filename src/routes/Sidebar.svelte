@@ -1,8 +1,10 @@
 <script>
     let links = {
         '/' : 'índice',
-        '/obras' : 'obras',
-        '/musica' : 'música'
+        '/blog' : 'blog',
+        '/lectura' : 'lectura',
+        '/musica' : 'música',
+        '/obras' : 'obras'
     }
 </script>
 
@@ -41,7 +43,7 @@
         /* padding-bottom: 1.5rem; */
         padding-left: 1.5rem;
         padding-right: 1.5rem;
-        height: 10rem;
+        height: 15.25rem;
         position: sticky;
         top: 2rem;
     }

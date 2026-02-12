@@ -6,7 +6,7 @@ export async function load({params}) {
     for (const [key, value] of Object.entries(modules))
     {
         console.log(key)
-        if (key.endsWith("am_hojas.md")) {
+        if (key.endsWith("aquellos.md")) {
             module = value.default
         }
     }
