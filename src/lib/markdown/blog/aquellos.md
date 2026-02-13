@@ -4,7 +4,7 @@
 
 ####
 
-a lo largo de los dos meses más recientes, leía dos libros que me abrieron los ojos a respecto de la literatura latinoamericano y los cuales he pensado en casi cada dia y así me gustaría notar algunos de mis pensamientos para practicar a escribir en español. los libros son *las hojas muertas* por bárbara jacobs, lo cual terminé en diciembre de 2025 mientras estaba en suecia con la familia de mi novia, y *amuleto* por roberto bolaño, lo cual terminé ayer, el 28 de enero, la vespera del día de kansas. 
+a lo largo de los dos meses más recientes, leía dos libros que me abrieron los ojos a respecto de la literatura latinoamericano y los cuales he pensado en casi cada dia y así me gustaría notar algunos de mis pensamientos para practicar a escribir en español. los libros son *las hojas muertas* por bárbara jacobs, lo cual terminé en diciembre de 2025 mientras estaba en suecia con la familia de mi novia, y *amuleto* por roberto bolaño, lo cual terminé ayer, el 28 de enero, la víspera del día de kansas. 
 
 terminar *amuleto* me place mucho porque lo he comprado muchos años antes, si recuerdo correctamente, se hizo en enero de 2023, en portland, de la líbreria powell's, el día que vea a sunn o))) en vivo por primera vez. Lo compré porque mi amiga sarah, quien era mi única amiga cuando vivía en seattle por primera vez, le encantaba a bolaño mucho y siempre decía cosas buenas sobre él y sus obras. incluso me dio una copia (en inglés) de *los detectives salvajes*, que aún pienso en de vez en cuando porque es super simpatica cosa que hizo ella. pero a sarah debo pedir disculpas porque me parece poco incongruente a leer en inglés lo que pudiera leer en la lengua original y así ya no lo había leído.
 
