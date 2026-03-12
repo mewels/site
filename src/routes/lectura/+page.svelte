@@ -22,22 +22,22 @@
         </li>
         <li>
             <span class = "cita">
-                <span class = autor>BOLAÑO, Roberto</span>:
-                <span class = titulo>La literatura nazi en América</span>.
-                <span class = "location">Barcelona</span>:
-                <span class = "publisher">Seix Barral</span>,
-                <span class = "ano">1996</span>.
-            </span>
-            <span class = "status">leyendo ahora</span>
-        </li>
-        <li>
-            <span class = "cita">
                 <span class = autor>AIDA, Yu</span>:
                 <span class = titulo>Gunslinger Girl</span>.
                 <span class = "traductor">Trad. de Araña Fansub</span>.
                 <span class = "ano">2002</span>.
             </span>
             <span class = "status">leyendo ahora</span>
+        </li>
+                <li>
+            <span class = "cita">
+                <span class = autor>BOLAÑO, Roberto</span>:
+                <span class = titulo>La literatura nazi en América</span>.
+                <span class = "location">Barcelona</span>:
+                <span class = "publisher">Seix Barral</span>,
+                <span class = "ano">1996</span>.
+            </span>
+            <span class = "status">acabado mar. 2026</span>
         </li>
         <li>
             <span class = "cita">
