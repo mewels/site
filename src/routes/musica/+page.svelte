@@ -5,7 +5,7 @@
 	const mobile = new MediaQuery('max-width: 1000px');
 
     let {data} = $props()
-    let collapsed = $state([0,0,0,0,0])
+    let collapsed = $state([0,0,0,0,0,0])
 
     if (mobile.current) {
         // collapse(0)
@@ -13,6 +13,7 @@
         collapse(2)
         collapse(3)
         collapse(4)
+        collapse(5)
     }
 
     
@@ -79,6 +80,7 @@
 
 </div>
 
+
 <div class = "notes">
     a young woman dreams of rocking out
 </div>
@@ -93,9 +95,34 @@
 <div></div>
 {/if}
 
+
+<div class = "section">
+    i ceniza
+    {#if collapsed[3] == 0}
+        <button class = "collapsable" onclick={(e) => collapse(3)}>▼</button>
+    {:else}
+        <button class = "collapsable" onclick={(e) => collapse(3)}>▶</button>
+    {/if}
+
+</div>
+
+<div class = "notes">
+    lost sounds
+</div>
+
+{#if collapsed[3] == 0}
+<div class = "project">
+    {#each data.projects.i_ceniza as {title, type, year, filename}}
+        <Project title = {title} type = {type} year = {year} filename = {filename} />
+    {/each}
+</div>
+{:else}
+<div></div>
+{/if}
+
 <div class = "section">
     cazadoras
-    {#if collapsed[3] == 0}
+    {#if collapsed[4] == 0}
         <button class = "collapsable" onclick={(e) => collapse(3)}>▼</button>
     {:else}
         <button class = "collapsable" onclick={(e) => collapse(3)}>▶</button>
@@ -107,7 +134,7 @@
     something i can't say
 </div>
 
-{#if collapsed[3] == 0}
+{#if collapsed[4] == 0}
 <div class = "project">
     {#each data.projects.cazadoras as {title, type, year, filename}}
         <Project title = {title} type = {type} year = {year} filename = {filename} />
@@ -119,7 +146,7 @@
 
 <div class = "section">
     mara / bagel / other names
-    {#if collapsed[4] == 0}
+    {#if collapsed[5] == 0}
         <button class = "collapsable" onclick={(e) => collapse(4)}>▼</button>
     {:else}
         <button class = "collapsable" onclick={(e) => collapse(4)}>▶</button>
@@ -131,7 +158,7 @@
     odds or ends, "the archive", stuff that isn't anything else
 </div>
 
-{#if collapsed[4] == 0}
+{#if collapsed[5] == 0}
 <div class = "project">
     {#each data.projects.mara as {title, type, year, filename}}
         <Project title = {title} type = {type} year = {year} filename = {filename} />

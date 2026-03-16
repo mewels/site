@@ -172,6 +172,20 @@
             ]
         }
     ],
+    "i_ceniza":
+    [
+        {
+            "artist" : "i ceniza",
+            "title" : "sin lengua",
+            "type" : "album",
+            "year" : "2026",
+            "filename" : "/images/sin_lengua_350.png",
+            "pagetext" : "sin_lengua.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/album/sin-lengua"                
+            ]
+        }
+    ],
     "mara":
     [
         {
