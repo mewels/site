@@ -123,9 +123,9 @@
 <div class = "section">
     cazadoras
     {#if collapsed[4] == 0}
-        <button class = "collapsable" onclick={(e) => collapse(3)}>▼</button>
+        <button class = "collapsable" onclick={(e) => collapse(4)}>▼</button>
     {:else}
-        <button class = "collapsable" onclick={(e) => collapse(3)}>▶</button>
+        <button class = "collapsable" onclick={(e) => collapse(4)}>▶</button>
     {/if}
 
 </div>
@@ -147,9 +147,9 @@
 <div class = "section">
     mara / bagel / other names
     {#if collapsed[5] == 0}
-        <button class = "collapsable" onclick={(e) => collapse(4)}>▼</button>
+        <button class = "collapsable" onclick={(e) => collapse(5)}>▼</button>
     {:else}
-        <button class = "collapsable" onclick={(e) => collapse(4)}>▶</button>
+        <button class = "collapsable" onclick={(e) => collapse(5)}>▶</button>
     {/if}
 
 </div>
