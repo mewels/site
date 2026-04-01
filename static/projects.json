@@ -176,6 +176,17 @@
     [
         {
             "artist" : "i ceniza",
+            "title" : "luz invernal",
+            "type" : "album",
+            "year" : "2026",
+            "filename" : "/images/luz_invernal_350.png",
+            "pagetext" : "luz_invernal.md",
+            "links" : [
+                "https://nekopath.bandcamp.com/album/luz-invernal"                
+            ]
+        },
+        {
+            "artist" : "i ceniza",
             "title" : "sin lengua",
             "type" : "album",
             "year" : "2026",
