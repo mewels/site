@@ -8,7 +8,7 @@
 <link rel="webchain"
     href="https://webchain.milkmedicine.net/" />
   <link rel="webchain-nomination"
-    href="https://painfeeledsubstation.web.fc2.com/" />
+    href="https://painfeeledsubstation.net/" />
   <link rel="webchain-nomination"
     href="https://yogurt200.com/" />
   <link rel="webchain-nomination"
